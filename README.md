@@ -9,13 +9,13 @@ It is meant to assist with learning to read the Cherokee syllabary.
 
 ## Installation
 
-1\. Download cpil.zip and unzip the file. 
+1\. Download the CPL directory so you have a folder with `manifest.json` and `/src/` 
 
-2\. Go to `chrome://extensions` or 'opera://extensions' in the address bar
+2\. Go to `chrome://extensions` or `opera://extensions` in the address bar
 
 3\. Enable **Developer mode**
 
-4\. **Load unpacked** → select the unzipped folder containing `manifest.json`
+4\. **Load unpacked** → select the folder containing `manifest.json` and `/src/`
 
 
 
