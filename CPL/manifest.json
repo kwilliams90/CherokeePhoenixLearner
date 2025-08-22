@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "Cherokee Phoenix: Inline Transliteration",
+  "version": "0.1.0",
+  "description": "Adds a small romanization line below Cherokee text in translated articles on cherokeephoenix.org.",
+  "permissions": [],
+  "host_permissions": [
+    "https://www.cherokeephoenix.org/*",
+    "https://cherokeephoenix.org/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.cherokeephoenix.org/*",
+        "https://cherokeephoenix.org/*"
+      ],
+      "run_at": "document_idle",
+      "css": ["styles.css"],
+      "js": ["transliterate.js", "content.js"]
+    }
+  ],
+  "action": {
+    "default_title": "Cherokee Transliteration"
+  }
+}
