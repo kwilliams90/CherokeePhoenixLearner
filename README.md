@@ -9,7 +9,7 @@ It is meant to assist with learning to read the Cherokee syllabary.
 
 ## Installation
 
-1. Download the zip file cpil.zip and unzip the file. 
+1\. Download the zip file cpil.zip and unzip the file. 
 
 2\. Go to `chrome://extensions` or 'opera://extensions' in the address bar
 
