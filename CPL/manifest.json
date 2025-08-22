@@ -15,8 +15,8 @@
         "https://cherokeephoenix.org/*"
       ],
       "run_at": "document_idle",
-      "css": ["styles.css"],
-      "js": ["transliterate.js", "content.js"]
+      "css": ["src/styles.css"],
+      "js": ["src/transliterate.js", "src/content.js"]
     }
   ],
   "action": {
