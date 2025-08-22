@@ -2,14 +2,14 @@
 Lightweight extension that enhances Cherokee Phoenix articles by displaying a Latin transliteration below each line of Cherokee text, making it easier to read, learn, and follow along.
 
 
-This extension adds a small romanization line right under each Cherokee line in the article body on cherokeephoenix.org. It avoids English paragraphs and won't double-annotate. It has been tested on Opera GX Version LVL 7 Core: 120.0.5543.160
+This extension adds a small romanization line right under each Cherokee line in the article body on [cherokeephoenix.org](www.cherokeephoenix.org). It avoids English paragraphs and won't double-annotate. It has been tested on Opera GX Version LVL 7 Core: 120.0.5543.160
 
 It is meant to assist with learning to read the Cherokee syllabary. 
 
 
 ## Installation
 
-1\. Download the zip file cpil.zip and unzip the file. 
+1\. Download cpil.zip and unzip the file. 
 
 2\. Go to `chrome://extensions` or 'opera://extensions' in the address bar
 
